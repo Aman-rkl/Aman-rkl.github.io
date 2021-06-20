@@ -19,6 +19,6 @@ document.write(Math.random(y));
 function myAlert() {
    alert("Hi");
 }
-setInterval(myAlert, 3000);
+setInterval(myAlert, 10000);
 var c= 90;
 cosole.log(c);
